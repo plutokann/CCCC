@@ -1,4 +1,4 @@
-fetch('../data/productions.json')
+fetch('/data/productions.json')
   .then(response => response.json())
   .then(data => {
     const gridContainer = document.querySelector('#populate-productions');
