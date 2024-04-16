@@ -1,4 +1,4 @@
-fetch('../data/activities.json')
+fetch('data/activities.json')
   .then(response => response.json())
   .then(data => {
     const gridContainer = document.querySelector('#populate-activities');
