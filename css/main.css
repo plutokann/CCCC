@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'OpenSans';
-    src: url('../fonts/OpenSans.ttf') format('truetype');
+    src: url('../assets/fonts/OpenSans.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -155,7 +155,7 @@ header {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 1em;
     margin-bottom: 0.6em;
 }

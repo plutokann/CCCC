@@ -1,38 +1,41 @@
 [
     {
-        "name": "Centre del Col·lapse",
-        "year": "2024",
-        "medium": "Critical Web",
-        "image": "images/helloworld3.jpg"
+        "artistID": "0",
+        "projectName": "Centre del Col·lapse",
+        "projectYear": "2024",
+        "projectMedium": "Critical Web",
+        "projectDesc": "",
+        "projectImage": "",
+        "projectLink" : ""
     },
     {
         "name": "yÜW0Ø2‰¡½0|[î¬Óhf5k^{ZaaöŸSÀª",
         "year": "Y,î¬Óhf5k^¡8{ZaöŸSÀªõÍĞÏR—ÄéÅæ”Ãd['U¯ç|m•®",
         "medium": "æÏR—ÄéÅæ”C öÔ",
-        "image": "images/loading.gif"
+        "image": "../assets/images/build/loading.gif"
     },
     {
         "name": "GÃd['U¯ç|m•®|Ô…8{ZaöŸSÀªõÍĞÏR—ÄéÅæ”C",
         "year": "RZö9Òz4—ÜW0Ø2‰¡½0|[î¾Ø…+ÛÖ5k¡8{Za",
         "medium": "¾Ø…+ÛÖ—",
-        "image": "images/loading.gif"
+        "image": "../assets/images/build/loading.gif"
     },
     {
         "name": "Centre del Col·lapse",
         "year": "2024",
         "medium": "Critical Web",
-        "image": "images/helloworld3.jpg"
+        "image": "../assets/images/build/helloworld3.jpg"
     },
     {
         "name": "yÜW0Ø2‰¡½0|[î¬Óhf5k^{ZaaöŸSÀª",
         "year": "Y,î¬Óhf5k^¡8{ZaöŸSÀªõÍĞÏR—ÄéÅæ”Ãd['U¯ç|m•®",
         "medium": "æÏR—ÄéÅæ”C öÔ",
-        "image": "images/loading.gif"
+        "image": "../assets/images/build/loading.gif"
     },
     {
         "name": "GÃd['U¯ç|m•®|Ô…8{ZaöŸSÀªõÍĞÏR—ÄéÅæ”C",
         "year": "RZö9Òz4—ÜW0Ø2‰¡½0|[î¾Ø…+ÛÖ5k¡8{Za",
         "medium": "¾Ø…+ÛÖ—",
-        "image": "images/loading.gif"
+        "image": "../assets/images/build/loading.gif"
     }
 ]

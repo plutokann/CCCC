@@ -1,0 +1,93 @@
+Following your proposed scripts, with a constant artist ID, does that mean that for each sheet I need a single script? I want it to be more automatic. For example, on my page I have a productions and artist page. On my productions there's as much containers as items on productions files, Each container displays projectName, projectYear, projectDesc. When you enter to one of those containers, it provides another html that shows a container with projectImage, projectName, projectYear, artistName, projectDesc, projectLink. If you click into artistName, you go to another html that provides a container with artistImage, artistName, artistYear, artistPronouns, artistDesc, etc. How many scripts would I have to have, how can I automate all of my needs?
+Copilot
+Usando
+la web
+You can achieve this by using URL parameters to pass the artist or production ID to the new HTML page. This way, you can use the same script for each artist or production page, and it will display the correct data based on the ID in the URL.
+
+Here’s an example of how you can modify the scripts to use URL parameters:
+
+Script 1: Populating the Production Page
+
+JavaScript
+
+// Get the production ID from the URL
+const urlParams = new URLSearchParams(window.location.search);
+const productionId = urlParams.get('id');
+
+fetch('../data/productions.json')
+  .then(response => response.json())
+  .then(data => {
+    const productionContainer = document.querySelector('#populate-production');
+    const production = data.find(item => item.artistID === productionId);
+
+    if (production) {
+      productionContainer.innerHTML = `
+        <h3>${production.projectName}</h3>
+        <p>${production.projectYear}</p>
+        <p>${production.projectMedium}</p>
+        <p>${production.projectDesc}</p>
+        <img src="${production.projectImage}" alt="${production.projectName}">
+        <a href="${production.projectLink}">Learn more</a>
+        <a href="artist.html?id=${production.artistID}">${production.artistName}</a>
+      `;
+    }
+  });
+Código generado por IA. Revisar y usar cuidadosamente. Más información sobre preguntas frecuentes.
+Script 2: Populating the Artist Page
+
+JavaScript
+
+// Get the artist ID from the URL
+const urlParams = new URLSearchParams(window.location.search);
+const artistId = urlParams.get('id');
+
+fetch('../data/artists.json')
+  .then(response => response.json())
+  .then(artists => {
+    const artistContainer = document.querySelector('#populate-artist');
+    const artist = artists.find(item => item.artistID === artistId);
+
+    if (artist) {
+      artistContainer.innerHTML = `
+        <h3>${artist.artistName}</h3>
+        <img src="${artist.artistImage}" alt="${artist.artistName}">
+        <p>${artist.artistYear}</p>
+        <p>${artist.pronouns}</p>
+        <p>${artist.bio}</p>
+      `;
+
+      // Fetch the productions for this artist
+      fetch('../data/productions.json')
+        .then(response => response.json())
+        .then(productions => {
+          const artistProductions = productions.filter(item => item.artistID === artistId);
+          const productionList = artistProductions.map(prod => `<li><a href="production.html?id=${prod.artistID}">${prod.projectName}</a></li>`).join('');
+          artistContainer.innerHTML += `
+            <h4>Related Projects</h4>
+            <ul>${productionList}</ul>
+          `;
+        });
+    }
+  });
+Código generado por IA. Revisar y usar cuidadosamente. Más información sobre preguntas frecuentes.
+In these scripts, I’m using the URLSearchParams object to get the ID from the URL. When you link to a production or artist page, you would include the ID in the URL like this: production.html?id=0 or artist.html?id=0. The script then uses this ID to fetch and display the correct data. This way, you can use the same script for each production or artist page, and it will automatically display the correct data based on the ID in the URL. I hope this helps! 😊
+
+Usted
+How can I set that kind of URL? I'm using github pages and visual studio code.
+Copilot
+Usando
+la web
+To set up URLs with parameters on GitHub Pages, you can follow these steps:
+
+Create HTML files: For each page you want to create (for example, artist.html and production.html), create a corresponding HTML file in your GitHub repository.
+Link to the pages: In your other HTML files, you can create links to these pages and include the ID parameter in the URL. Here’s an example of how you can create such a link in HTML:
+HTML
+
+<a href="artist.html?id=0">Artist 0</a>
+Código generado por IA. Revisar y usar cuidadosamente. Más información sobre preguntas frecuentes.
+In this example, artist.html is the page you’re linking to, and id=0 is the URL parameter you’re passing to the page. When someone clicks this link, they’ll be taken to the artist.html page, and the script on that page can access the id parameter from the URL.
+
+Access URL parameters in JavaScript: In your JavaScript code, you can use the URLSearchParams object to access the URL parameters, as shown in the scripts I provided in the previous message.
+Commit and push your changes: Once you’ve made these changes, commit and push them to your GitHub repository. GitHub Pages will automatically update to reflect your changes.
+Test your pages: You can now navigate to your GitHub Pages site and test your new pages. Click the links you created to navigate to the new pages, and you should see the correct data displayed based on the ID in the URL.
+Remember, when working with GitHub Pages, all your HTML, CSS, and JavaScript files need to be in the same repository, and you need to push your changes to the gh-pages branch if you have one, or to the main or master branch if you don’t have a gh-pages branch. I hope this helps! 😊
