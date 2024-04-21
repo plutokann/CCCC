@@ -1,0 +1,14 @@
+[
+    {
+        "artistID": "",
+        "artistName": "",
+        "projectID": "",
+        "projectPage": "../views/project.html",
+        "projectName": "",
+        "projectYear": "",
+        "projectMedium": "",
+        "projectDesc": "",
+        "projectImage": "../assets/media/archive/",
+        "projectLink": ""
+    }
+]

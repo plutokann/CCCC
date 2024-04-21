@@ -1,0 +1,52 @@
+[
+    {
+        "artistID": "alvaro-romero",
+        "artistName": "Álvaro Romero",
+        "projectID": "alvaro.politicas-visuales",
+        "projectName": "Políticas visuales queer. El futuro como ilusión heteronormativa",
+        "projectYear": "2023",
+        "projectMedium": "Lectura Performativa amb Suport Visual",
+        "projectDesc": "'Políticas visuales queer. El futuro como ilusión heteronormativa' és un projecte de creació que persegueix desafiar els programes de predicció de futur normatius. Respon a la dificultat a què s'enfronten les identitats disidents per vislumbrar un horitzó polític i vital òptim i la manca de perspectiva i imaginari amb la qual han de calibrar el seu present constantment.\n\n\n\nLa peça combina la projecció visual amb la lectura performativa. Mitjançant el llenguatge es narren les tècniques del muntatge cinematogràfic i els sistemes que conformen la vida heteronormativa amb l'objectiu de proposar un estranyament de les imatges que es mostren i els elements que apareixen associats a la família, al llar i a la promesa d'una bona vida. Es posa de manifest d'aquesta manera com la càmera crea realitat i quins procediments visuals modelen la subjectivitat humana en relació al seu futur. Es tracta de posar en relleu la subjectivitat, la fantasia, el dol o la memòria per aconseguir desvetllar capes ocultes de significació que es troben en les imatges, soterrades sota una lectura blanquejada de les mateixes.\n\n\n\nLa manca d'imatges en algunes parts del muntatge de la pel·lícula planteja la importància dels buits, que es mostren com a fosses en negre, per potenciar la imaginació. Aquí el queer actua més aviat com una forma de treball, una eina metodològica que es col·loca en els mateixos intersticis que resideixen entre les imatges normatives i la manca d'imaginari per a les realitats disidents.\n\n\n\nAquest projecte va ser seleccionat en la convocatòria de Residències a El Consulat 2023, en el marc de Cultura Resident, programa de residències artístiques del Consorci de Museus de la Generalitat Valenciana.",
+        "projectImage": "../../assets/media/archive/Alvaro_Romero/Politicas_Visuales_Queer/alvaro_politicas_visuales.jpg",
+        "projectLink": "https://youtu.be/gUybonOnCM0",
+        "projectLinkName" : "Veure Vídeo",
+        "projectPage": "../../views/sheet/project.html"
+    },
+    {
+        "artistID": "irene-sanchez",
+        "artistName": "Irene Sánchez Mora",
+        "projectID": "irene.google-privacity",
+        "projectName": "Google Privacity Party",
+        "projectYear": "2021",
+        "projectMedium": "Web",
+        "projectDesc": "'Google Privacity Party' és una obra de netart que busca problematitzar les clàusules de recopilació de dades, així com desarticular la navegació d'espais web que condueixen a l'acceptació de termes i serveis mitjançant estratègies de disseny pop-up bombing - bombardeig de finestres emergents - o la no accessibilitat deliberada.\n\n\n\nClara Serra explica al seu text 'El problema del consentimiento' (2023) que si mirem el món des d'una òptica liberal on els subjectes són enterament lliures i independents, consentir és un acte senzill i unívoc que constitueix un pacte reconeixible entre iguals; una idea reduïda des del dret romà a la figura del contracte. No obstant això, si mirem el món des de la convicció ferma que existeixen desigualtats de poder, estructures socials que dominen els subjectes, resulta que consentir pot significar cedir davant la força de l'altre.\n\n\n\nGoogle Privacity Party pren com a element d'experimentació la casella de verificació o checkbox d'acceptació, subvertint la funció que se li atorga en el disseny web de grans plataformes com Google i elaborant una interfície crítica que obliga a detenir-se en la lectura de la política de privadesa paraula per paraula. Utilitzant el disseny user-hostil com a postura davant el user-oriented, en aquesta obra, el disseny i el desenvolupament web convergeixen per posar en relleu la força exercida a través del disseny en la recopilació massiva i la privatització de dades per part de les grans tecnològiques.",
+        "projectImage": "../../assets/media/archive/Irene_Sanchez_Mora/Google_Privacity_Party/irene_gpp_2.png",
+        "projectLink": "https://irsanmo1.upv.edu.es/policy.html",
+        "projectLinkName" : "Veure Web",
+        "projectPage": "../../views/sheet/project.html"
+    },
+    {
+        "artistID": "guiu-gimeno",
+        "artistName": "Guiu Gimeno Bardis",
+        "projectID": "guiu.pino-blanco",
+        "projectName": "Pino Blanco, Ano Verde",
+        "projectYear": "2024",
+        "projectMedium": "Conferència Performativa",
+        "projectDesc": "El 1940 Michel Dillon s'injecta per primera vegada testosterona sintètica, convertint-se així en el primer home trans a fer-ho. En aquell mateix moment, però a uns quants quilòmetres de distància de Bristol; a Torrelles de Llobregat; el meu avi es trobava treballant al bosc, en un bosc ple de pi blanc. És també als anys 40 quan la medicina inventa la noció de gènere, per indicar la possibilitat de produir la diferència sexual gràcies a tècniques hormonals, quirúrgiques i educatives.\n\n\n\n''Pino Blanco, Ano Verde' és un recorregut conceptual pels diferents dispositius de poder que han inventat i implementat el sistema sexe-gènere vigent. És també una confabulació de possibilitats per a augmentar els meus nivells de testosterona sense passar per les institucions mèdiques, cercant en altres llocs: En els sabers populars que van ser aniquilats i segrestats. En les intuïcions d'altres cossos no humans. En els boscos abarrots de pi blanc on vaig créixer. En el pol·len de pi. Generant així un cos que s'entén com a part d'un ecosistema forestal. Un cos alterat hormonalment, un cos que posa en evidència que és una ficció política, un híbrid entre biologia i cultura.",
+        "projectImage": "../../assets/media/archive/Guiu_Gimeno_Bardis/Pino_Blanco_Ano_Verde/guiu_pinoblanco_anoverde_2.png",
+        "projectPage": "../../views/sheet/project.html"
+    },
+    {
+        "artistID": "kanno",
+        "artistName": "KANNO",
+        "projectID": "kanno.centre-colapse",
+        "projectName": "Centre del Col·lapse",
+        "projectYear": "2024",
+        "projectMedium": "Centre Cultural",
+        "projectDesc": "",
+        "projectImage": "../../assets/media/archive/Kanno_Laia_Caballero/Centre_Colapse/kanno_centre_colapse.jpg",
+        "projectLink": "https://centrecolapse.com",
+        "projectLinkName" : "Veure Web",
+        "projectPage": "../../views/sheet/project.html"
+    }
+]

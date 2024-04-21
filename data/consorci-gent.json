@@ -1,0 +1,45 @@
+[
+    {
+        "artistID": "alvaro-romero",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Álvaro Romero",
+        "artistImage": "../../assets/media/archive/Alvaro_Romero/bio.jpg",
+        "artistYear": "1998",
+        "artistPronouns": "Ell / Elli",
+        "artistBio": "Àlvaro Romero (ell/elli) neix a Tarragona el 1998. Estudia Belles Arts a la Universitat Politècnica de València i posteriorment realitza el Màster en Producció i Investigació Artística de la Universitat de Barcelona. Actualment combina la recerca del Doctorat a la Universitat de Barcelona amb el desenvolupament de projectes artístics, en els quals la pràctica vital i artística es troben entremesclades constantment.\n\n\n\nMitjançant l'escriptura i el vídeo, realitza projectes que reflexionen sobre la disidència de gènere, la visualitat d'altres futurs i el qüestionament de la cultura visual heteronormativa amb l'objectiu de celebrar una identitat col·lectiva. El seu incipient treball es desenvolupa entre València i Barcelona.",
+        "artistLink" : "https://www.vimeo.com/alvarxromero"
+    },
+    {
+        "artistID": "irene-sanchez",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Irene Sánchez Mora",
+        "artistImage": "../../assets/media/archive/Irene_Sanchez_Mora/bio.jpeg",
+        "artistYear": "1997",
+        "artistPronouns": "Ella",
+        "artistBio": "Irene Sánchez Mora (Alacant, 1997) és artista de nous mitjans, educadora i investigadora. La seva pràctica actual està centrada en la problematització dels relats i imaginaris que conformen el nou context espacial, així com en l'elaboració d'altres narracions que s'apropen als ecosistemes de l'exterioritat des de les lògiques de l'afecte.\n\n\n\nGraduada en Belles Arts per la Universitat Politècnica de València amb un Màster en Arts Visuals i Multimèdia (AVM), actualment forma part del grup de recerca Laboratori de Llum, on desenvolupa la seva tesi doctoral. Treballa en projectes on la ciència-ficció, el disseny especulatiu i la teoria postnatural convergeixen per traslladar i proposar interfícies i visualitats crítiques.\n\n\n\nEl seu treball individual ha estat acollit per institucions com l'EACC (Espai d'Art Contemporani de Castelló) o el Centre Cultural Les Cigarreras d'Alacant. De manera paral·lela, el seu treball en col·lectiu, dins del Laboratori, ha estat mostrat al Matadero Madrid, al CCCC (Centre de Cultura Contemporània del Carme) o a l'IVAM (Institut Valencià d'Art Modern).",
+        "artistLink" : "https://www.instagram.com/irenerenerenere/"
+    },
+    {
+        "artistID": "guiu-gimeno",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Guiu Gimeno Bardis",
+        "artistImage": "../../assets/media/archive/Guiu_Gimeno_Bardis/bio.jpg",
+        "artistYear": "1996",
+        "artistPronouns": "Ell / Elli",
+        "artistBio": "Guiu Gimeno Bardis (1996, Torrelles de Llobregat) treballa sempre des de l'experiència en primera persona, es por això que s'interessa por las tradicions, el folklore, les relaciones interepeciè i els vas saber rurals i perifèrics. Però també en com aquestes condicions es poden travessar des de l'experiència kuir. Utilitzant com a metodologia de traball 'el disfrute', l'imaginar nous possibles que parteixen de la utopia i la quotidianitat. Ha realitzat diferents performances on s'entremescla lo kuir i lo postrural com a ”Pino blanco, ano verde” (Centre Párraga) “La llenya calfa dues vegades”(La Capella) “Galop de Panderetes” (Hangar,Festival Rihihiu i Fundació Brossa) o con el seu contacontes drag “Mine i Malisme”(Fundació Caixa Castellò) y  “Pepet del Guaret” (Espai Torrorista ) . Ha participat en algunes residències artístiques (CCCC,Re-utopia, El Pati o MERZ Gallery). I des del camp de la mediació ha treballat per a varias instituciones (Hablar en arte, IVAM, CCCC o Condeduque).",
+        "artistLink" : "https://www.instagram.com/gimenobardis/"
+    },
+    {
+        "artistID": "kanno",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "KANNO",
+        "artistImage": "../../assets/media/archive/Kanno_Laia_Caballero/bio.jpeg",
+        "artistYear": "1999",
+        "artistPronouns": "Ella / Ell / Elli",
+        "artistBio": "KANNO (Laia Caballero Cano, 1999) és una artista transmèdia de Barcelona, especialitzada en tecnologia, audiovisuals i so. Està graduada en Belles arts per la Universitat de Barcelona i actualment cursa un màster en Arts Visuals i Multimèdia per la Universitat Politècnica de València. La seva recerca i producció comparteix influències de l'Hacktivisme, el Net.Art i el Post-Internet, abordant plantejaments creatius, crítics i contemplatius sobre la tecnologia, la ciberseguretat i la cultura d'Internet. Mitjançant la instal·lació, el so, la creació digital i la programació, presenta metodologies així com discursos alternatius sobre els fenòmens socials en línia, el hacking i la dissidència.\n\n\n\nLes seves produccions han estat exposades en festivals i exposicions com Fundació Caixa Castelló (2024), VOLUMENS (2023), CCCC (2023), ArtNou (2020), dedicat a l'art emergent de la capital catalana, i SenseTítol (2022), una exposició organitzada per la Universitat de Barcelona en la qual presenten una selecció dels millors treballs de recerca i producció de la promoció. A més de participar en exposicions, també s'ha involucrat en equips per a esdeveniments com LlumBCN (2020) i X / Xperience de Haus of Color (2020), en els quals a més ha estat convidada a realitzar un DJ set per a aquests. El seu treball va ser presentat en el programa de ràdio 'Rastres de Carmín' (2020) de Pilar Talavera, al Prat Ràdio, qui al costat de Víctor Ramírez en la secció Noise/Punk/Abstracció, presenten a l'artista i un dels seus treballs sonors, Not Anymore, en el qual s'elabora un discurs paral·lel entre la mort i la desconnexió digital.",
+        "artistLink" : "http://www.plutokan.com/"
+    }
+]
+
+
+       

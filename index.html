@@ -6,12 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Centre del Col·lapse</title>
-  <link rel="icon" href="assets/images/build/icons/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="assets/images/build/icons/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="assets/build/icons/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/build/icons/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/gallery.css">
   <script src="js/main.js" async></script>
-  <script src="js/populate-archive.js" async></script>
-  <script src="js/populate-activities.js" async></script>
+  <script src="js/populate/produccio.js" async></script>
+  <script src="js/populate/activities.js" async></script>
 </head>
 
 <body>
@@ -19,22 +20,22 @@
     <header>
       <div class="branding">
         <button class="menu-button" onclick="toggleMenu()">Menú</button>
-        <a href="index.html"><img src="assets/images/build/logoCCCC.png" alt="Logo"></a>
+        <a href="index.html"><img src="assets/build/logo.png" alt="Logo"></a>
         <div class="social-media">
           <div class="language"><a href="#">Español</a><p>/</p><a href="#">English</a></div>
-          <a href="#"><img src="assets/images/build/icons/instagram.png" alt="Instagram"></a>
-          <a href="#"><img src="assets/images/build/icons/youtube.png" alt="YouTube"></a>
-          <a href="#"><img src="assets/images/build/icons/tiktok.png" alt="TikTok"></a>
+          <a href="#"><img src="assets/build/icons/instagram.png" alt="Instagram"></a>
+          <a href="#"><img src="assets/build/icons/youtube.png" alt="YouTube"></a>
+          <a href="#"><img src="assets/build/icons/tiktok.png" alt="TikTok"></a>
         </div>
       </div>
       <hr class="hr-light">
       <div class="nav-menu">
         <ul>
-          <li><a href="#">CONSORCI DE GENT</a></li>
-          <li><a href="views/productions.html">PRODUCCIÓ</a></li>
-          <li><a href="#">ACTIVITATS</a></li>
+          <li><a href="views/consorci-gent.html">CONSORCI DE GENT</a></li>
+          <li><a href="views/produccio.html">PRODUCCIÓ</a></li>
+          <li><a href="views/coming-soon.html">ACTIVITATS</a></li>
           <li><a href="views/coming-soon.html">EDUCACIÓ</a></li>
-          <li><a href="#">OFFLINE</a></li>
+          <li><a href="views/coming-soon.html">OFFLINE</a></li>
           <li><a href="views/coming-soon.html">PUBLICACIONS</a></li>
           <li><a href="views/coming-soon.html">CONVOCATORIES</a></li>
           <li><a href="views/coming-soon.html">PRENSA</a></li>
@@ -43,17 +44,17 @@
     </header>
   </div>
 
-  <a href="#"><img class="slider-img" src="assets/images/build/helloworld4.jpg" alt=""></a>
+  <a href="#"><img class="slider-img" src="assets/build/helloworld4.jpg" alt=""></a>
 
   <div class="page-container">
     <hr class="hr-bold">
 
     <div class="gallery">
-      <h2>Producció</h2>
+      <h2><a href="views/produccio.html">Producció</a></h2>
       <div id="populate-productions" class="grid-container">
         <!-- JSON POPULATION -->
       </div>
-      <a href="views/productions.html">Veure totes les produccions</a>
+      <a href="views/produccio.html">Veure totes les produccions</a>
     </div>
     <br>
     <hr class="hr-bold">
@@ -63,13 +64,13 @@
       <div id="populate-activities" class="grid-container">
         <!-- JSON POPULATION -->
       </div>
-      <a href="#">Ver todas las actividades</a>
+      <a href="#">Veure totes les activitats</a>
     </div>
     <br>
     <hr class="hr-bold">
 
     <footer>
-      <img src="assets/images/build/icons/open source.png" alt="">
+      <img src="assets/build/icons/open source.png" alt="">
       <div class="footer-info">
         <a href="https://opensource.org/about/">Open Source Initiative</a>
         <a href="#">HELLO WORLD</a>
