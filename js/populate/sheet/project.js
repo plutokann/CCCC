@@ -38,7 +38,9 @@ fetch('../../data/produccio.json')
               <p>- ${project.projectMedium} -</p>
               <p class="italic"><a href="${artistPage}?id=${artist.artistID}">${project.artistName}</a> (${project.projectYear})</p>
               <p>${formattedDesc}</p>
-              ${project.projectLink ? `<a href="${project.projectLink}" target="_blank">${project.projectLinkName}</a>` : ''}
+              <br>
+              ${project.projectLink ? `<a class='link' href="${project.projectLink}" target="_blank">${project.projectLinkName}</a>` : ''}
+              <br>
             </div>
           `;
           gridContainer.appendChild(div);

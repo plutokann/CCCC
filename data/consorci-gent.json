@@ -1,5 +1,85 @@
 [
     {
+        "artistID": "iris-lopez",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Iris López",
+        "artistImage": "../../assets/media/archive/Iris_Lopez/bio.png",
+        "artistYear": "1996",
+        "artistPronouns": "Ella",
+        "artistBio": "Iris (Madrid, 1996). El desenvolupament de la seva obra es fonamenta partint de múltiples experiències laborals dins dels espais de consum. A través de la seva pràctica artística, que desenvolupa mitjançant el rescat d'elements propis de l'escenari laboral, reflexiona sobre la relació entre la identitat global instaurada per les dinàmiques de consum i treball submergides en el marc del precari. S'evidencia d'aquesta manera com es gesta una sort de ritualitat, a través de la inèrcia i la repetició, que no afecten no sols el pla material sinó a un altre més intangible, sota l'esfera del 'espiritual'./n/n/n/nPer a l'artista és essencial en els seus treballs establir distàncies i connexions entre dimensions (material/espiritual, creatiu/laboral...) on es generen possibilitats de resistència i nous rituals, generats després de revertir aquestes dinàmiques de treball i precarietat existencial./n/n/n/nLa seva obra, dins de l'àmbit instal·latiu, juga i extreu elements dels escenaris reals, es dirigeix cap a una experimentació tèxtil per la connotació de consum, treball, i identitat que les peces recreen impregnades de la seva corresponent vibració.",
+        "artistLink" : "https://www.instagram.com/un.kn0wn.id/"
+    },
+    {
+        "artistID": "alejandro-vazquez",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Alejandro Vázquez",
+        "artistImage": "../../assets/media/archive/Alejandro_Vazquez/bio.jpg",
+        "artistYear": "1999",
+        "artistPronouns": "Ell",
+        "artistBio": "Alejandro Vázquez (Vigo 1999) és un artista multidisciplinari interessat per com les tecnologies de la informació han canviat la nostra manera de relacionar-nos. Les seves peces dibuixen, des de l'estètica, suposats i preguntes sobre la identitat, l'espiritualitat i les relacions interpersonals en l'espai fred que suposa un món digitalitzat i global.",
+        "artistLink" : "https://alejandro-vazquez.com/"
+    },
+    {
+        "artistID": "sahara",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Sahara Dolores",
+        "artistImage": "../../assets/media/archive/Sahara_Dolores/bio.jpg",
+        "artistYear": "1998",
+        "artistPronouns": "Elli",
+        "artistBio": "Sahara Dolores (elle/elli) neix a Alacant el 1998. És artista transmèdia i mediadore cultural. Produeix i investiga a partir dels estudis queer en relació amb les tecnologies, observant com aquestes es vinculen amb el digital, indagant en metodologies i espais dissidents en Internet. Es gradua en Belles arts per la Universitat Politècnica de València. Actualment està cursant el Màster en Arts Visuals i Multimèdia (AVM), mentre forma part de dos col·lectius, Edredonlab amb Marina Incertis, Alejandro Ocaña i Sara Aliana, i de PPP amb Álvaro Romero. Tots dos s'entreteixeixen des de la col·lectivitat, la crítica cultural i la dissidència.\n\n\n\nLa seva pràctica personal s'ha vist acollida per espais com Fusion Studio Gallery (Exposició Virtual comissariada per Hugo Arias. Internet) o Estudio Cuba. En l'àmbit de la mediació des del col·lectiu Edredonlab, ha treballat en espais institucionals museístics, com el CCCC (València) o La Casa Encendida (Madrid), combinant amb mediacions galeristes per a LAVAC durant Abierto València 2022, i la participació en el festival #meetyou del teatre Calderón (Valadolid) al costat de l'artista Vicente Arlandis. També ha col·laborat amb el col·lectiu La Cuarta Piel, en la reforma de l'aula del Màster Permea (CCCC, València), i en la implementació de projectes de mediació en l'espai Secadero, CC Cigarreras (Alacant) durant 2023 i 2024.",
+        "artistLink" : "https://www.instagram.com/sahara_dolores/"
+    },
+    {
+        "artistID": "sahara",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Sahara Dolores",
+        "artistImage": "../../assets/media/archive/Sahara_Dolores/bio.jpg",
+        "artistYear": "1998",
+        "artistPronouns": "Elli",
+        "artistBio": "Sahara Dolores (elle/elli) neix a Alacant el 1998. És artista transmèdia i mediadore cultural. Produeix i investiga a partir dels estudis queer en relació amb les tecnologies, observant com aquestes es vinculen amb el digital, indagant en metodologies i espais dissidents en Internet. Es gradua en Belles arts per la Universitat Politècnica de València. Actualment està cursant el Màster en Arts Visuals i Multimèdia (AVM), mentre forma part de dos col·lectius, Edredonlab amb Marina Incertis, Alejandro Ocaña i Sara Aliana, i de PPP amb Álvaro Romero. Tots dos s'entreteixeixen des de la col·lectivitat, la crítica cultural i la dissidència.\n\n\n\nLa seva pràctica personal s'ha vist acollida per espais com Fusion Studio Gallery (Exposició Virtual comissariada per Hugo Arias. Internet) o Estudio Cuba. En l'àmbit de la mediació des del col·lectiu Edredonlab, ha treballat en espais institucionals museístics, com el CCCC (València) o La Casa Encendida (Madrid), combinant amb mediacions galeristes per a LAVAC durant Abierto València 2022, i la participació en el festival #meetyou del teatre Calderón (Valadolid) al costat de l'artista Vicente Arlandis. També ha col·laborat amb el col·lectiu La Cuarta Piel, en la reforma de l'aula del Màster Permea (CCCC, València), i en la implementació de projectes de mediació en l'espai Secadero, CC Cigarreras (Alacant) durant 2023 i 2024.",
+        "artistLink" : "https://www.instagram.com/sahara_dolores/"
+    },
+    {
+        "artistID": "azel",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Andrés Cuesta (AZEL)",
+        "artistImage": "../../assets/media/archive/Azel_Andres_Cuesta/bio.jpg",
+        "artistYear": "1999",
+        "artistPronouns": "Ell",
+        "artistBio": "La meva posició com a artista digital cerca una experiència gràfica que fa èmfasi en la narrativa i storytelling a través de la creació de mons i iconografia personal. Dono importància a l'ambient amb l'objectiu de transmetre idees i sensacions on s'emboliqui a l'espectador i pugui recrear-se en aquests universos que es desfan, on habiten éssers fracturats.",
+        "artistLink" : "https://www.instagram.com/azelcrown/"
+    },
+    {
+        "artistID": "ppp",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "PPP",
+        "artistImage": "../../assets/media/archive/PPP/bio.jpg",
+        "artistYear": "2023",
+        "artistPronouns": "Col·lectiu",
+        "artistBio": "PPP (Petardes Potencialment Peligroses) és un col·lectiu artístic que neix a València sota la necessitat de potenciar la col·lectivitat i celebrar la dissidència. El nostre treball parteix de la reivindicació de les nostres identitats com a eina de creació, negociant entre les pràctiques artístiques institucionals i unes metodologies queer que possibilitin altres llocs de trobada i intervenció. Les nostres demandes com a col·lectiu responen a les problemàtiques contemporànies de les lluites transfeministas del nostre país, entenent el queer com un horitzó polític.",
+        "artistLink" : "https://www.instagram.com/petardespp/"
+    },
+    {
+        "artistID": "pedro-bella",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Pedro Bella",
+        "artistImage": "../../assets/media/archive/Pedro_Bella/bio.jpg",
+        "artistYear": "1996",
+        "artistPronouns": "Ell",
+        "artistBio": "Tenint molt en compte el valor de la ficció per a la creació de realitats, la seva obra aborda, des d'enfocaments especulatius i posthumanistes, els medis naturals i la nostra relació amb aquests, plantejant dissenys diegéticos, ecosistemes i entorns ficticis on puguin conviure i convergir diferents narratives tant interespecie, virtuals, expandides o fantàstiques.\n\n\n\nEl seu treball manté un constant intercanvi entre el digital i el físic, impulsant-se del disseny ficció per a expandir l'entorn i les seves possibilitats. Aquesta creació de nous imaginaris, que sorgeix des de la producció digital i audiovisual, es materialitza també a través de peces físiques que empren materials i haceres relacionats al desenvolupament sostenible i el pensament do it yourself.",
+        "artistLink" : "https://pedrobella.com/art.html"
+    },
+    {
+        "artistID": "edredon",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "EdredonLab",
+        "artistImage": "../../assets/media/archive/EdredonLab/bio.jpg",
+        "artistYear": "2021",
+        "artistPronouns": "Col·lectiu",
+        "artistBio": "EdredonLab és un col·lectiu de producció i mediació artística experimental que explora la construcció d'espais on subvertir la vivència hegemònica dels temps i del propi cos. Format a València en 2022, inicia la seva pràctica investigant el descans com a pràctica de resistència, i centra els seus primers treballs a explorar la vivència del cos cansat i en la col·lectivització del malestar que sorgeix d'habitar un context hiper-productivista i hiper-accelerat. Aquesta primera etapa es desenvolupa principalment en espais institucionals museístics, com el CCCC (València) o La Casa Encesa (Madrid).\n\n\n\nMés recentment, el col·lectiu ha començat a desenvolupar línies de treball que atenen directament l'experiència d'habitar el cos dissident. A través del treball amb comunitats, es planteja la construcció d'eines pròpies i resistents, propiciant així processos situats i compromesos. L'extraordinari, impossible, utòpic o fantàstic travessen aquestes propostes, igual que el popular, els activismes, el ritual i el festiu. Utilitzen les narratives com a eines utòpiques i especulatives, que generen realitats fent ús d'elles des de llocs i accions diverses. Ara mateix, les narratives han aterrat en la potencialitat del passat en relació amb el present i el futur, entenent l'herència, l'arxiu i les cartografies com a metodologies a més de com objectes o resultats. Tots aquests processos es veuen arrelats en la teoria queer, alguna cosa que travessa les pràctiques del col·lectiu com a vivència i realitat des del seu naixement. Davant les situacions que s'estan generant a nivell contextual, se'ls fa evident la necessitat interna d'encaminar-ho des de la crítica els binaris i binomis que ens inunden, a les normativitats que ens tanquen i a les violències que ens travessen.\n\n\n\nEdredonLab està format pels artistes i mediadoris Sara Aliana, Alejandro Ocaña, Sahara Dolores i Marina Incertis.\n\n\n\nEl col·lectiu ha treballat també per a LAVAC durant Abierto València 2022, i en el festival #meetyou del teatre Calderón (Valadolid) al costat de l'artista Vicente Arlandis. En 2023 comença a col·laborar amb el col·lectiu alacantí La Cuarta Piel, al costat dels qui es treballa en la reforma de l'aula del Màster Permea (CCCC, València) i s'implementen projectes de mediació en l'espai Secadero, CC Cigarreras (Alacant) durant 2023 i 2024. Altres agents en relació amb EdredónLab són els col·lectius metro0, PPP, i las Mediocre, a més d'artistes i companyis com Alfredo Burguera, Irene Verdeguer, Irene Santamaria, Antoni Solera i Kanno.",
+        "artistLink" : "https://www.instagram.com/edredonlab"
+    },
+    {
         "artistID": "alvaro-romero",
         "artistPage": "../views/sheet/artist.html",
         "artistName": "Álvaro Romero",
