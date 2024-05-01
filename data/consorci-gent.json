@@ -70,16 +70,6 @@
         "artistLink" : "https://www.instagram.com/sahara_dolores/"
     },
     {
-        "artistID": "sahara",
-        "artistPage": "../views/sheet/artist.html",
-        "artistName": "Sahara Dolores",
-        "artistImage": "../../assets/media/archive/Sahara_Dolores/bio.jpg",
-        "artistYear": "1998",
-        "artistPronouns": "Elli",
-        "artistBio": "Sahara Dolores (elle/elli) neix a Alacant el 1998. És artista transmèdia i mediadore cultural. Produeix i investiga a partir dels estudis queer en relació amb les tecnologies, observant com aquestes es vinculen amb el digital, indagant en metodologies i espais dissidents en Internet. Es gradua en Belles arts per la Universitat Politècnica de València. Actualment està cursant el Màster en Arts Visuals i Multimèdia (AVM), mentre forma part de dos col·lectius, Edredonlab amb Marina Incertis, Alejandro Ocaña i Sara Aliana, i de PPP amb Álvaro Romero. Tots dos s'entreteixeixen des de la col·lectivitat, la crítica cultural i la dissidència.\n\n\n\nLa seva pràctica personal s'ha vist acollida per espais com Fusion Studio Gallery (Exposició Virtual comissariada per Hugo Arias. Internet) o Estudio Cuba. En l'àmbit de la mediació des del col·lectiu Edredonlab, ha treballat en espais institucionals museístics, com el CCCC (València) o La Casa Encendida (Madrid), combinant amb mediacions galeristes per a LAVAC durant Abierto València 2022, i la participació en el festival #meetyou del teatre Calderón (Valadolid) al costat de l'artista Vicente Arlandis. També ha col·laborat amb el col·lectiu La Cuarta Piel, en la reforma de l'aula del Màster Permea (CCCC, València), i en la implementació de projectes de mediació en l'espai Secadero, CC Cigarreras (Alacant) durant 2023 i 2024.",
-        "artistLink" : "https://www.instagram.com/sahara_dolores/"
-    },
-    {
         "artistID": "azel",
         "artistPage": "../views/sheet/artist.html",
         "artistName": "Andrés Cuesta (AZEL)",
