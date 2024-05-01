@@ -1,5 +1,45 @@
 [
     {
+        "artistID": "antoni-solera",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Antoni Solera",
+        "artistImage": "../../assets/media/archive/Antoni_Solera/bio.jpg",
+        "artistYear": "1999",
+        "artistPronouns": "Ella / Ell / Elli",
+        "artistBio": "Navega i hibrida una gran varietat de temes, amb un especial interés per l'abstracte, l'invisible i la matèria que ho sosté, el paisatge/territori i el paper de lo viu i l'interespècie al gest artístic, polític i social.\n\n\n\nA través de l'art d'acció i la instal·lació, sent estos travessats per diferents tècniques i processos, crea espais-terrenys que configuren sinergies, disrupcions i imaginaris que despleguen noves preguntes i possibilitats.\n\n\n\nNascut a l'Horta Nord es graduat en Belles Arts (UPV) (ESA-REUNIÓN) i estudia el programa d'estudis Articulacions 23/24 (IVAM), forma part del col·lectiu 90GRAMOS ESTUDIO i ha treballat amb institucions com Fundació Caixa Castelló i La Mutant.",
+        "artistLink" : "https://www.instagram.com/blob.357/"
+    },
+    {
+        "artistID": "ruben-rodriguez",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Rubén Rodríguez",
+        "artistImage": "../../assets/media/archive/Ruben_Rodriguez/bio.jpg",
+        "artistYear": "1997",
+        "artistPronouns": "Ell",
+        "artistBio": "Pop Entrepreneur",
+        "artistLink" : "https://www.instagram.com/ruben.rdsj/"
+    },
+    {
+        "artistID": "tatiana",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Tatiana Álvarez",
+        "artistImage": "../../assets/media/archive/Tatiana_Alvarez/bio.jpg",
+        "artistYear": "1999",
+        "artistPronouns": "Ella",
+        "artistBio": "Tatiana Álvarez (Oviedo, 1999) és una artista multimèdia el treball de la qual se centra en el territori de la memòria, explorant les tensions que emergeixen de les absències i en la procesualidad de l'arxiu i el document com a figures desestabilitzadores.\n\n\n\nEs va graduar en Disseny per la Universitat Complutense de Madrid i posteriorment va completar el màster en Arts Visuals i Multimèdia a la Universitat Politècnica de València. Durant la seva formació, va realitzar dos intercanvis acadèmics a l'Argentina, endinsant-se en els vessants del cinema i el folklore en la Universitat Nacional de La Plata i la Universitat Nacional de les Arts a Buenos Aires, respectivament.\n\n\n\nAquestes experiències en terres argentines van marcar profundament la seva trajectòria artística, definint el seu enfocament a desafiar les narratives preestablertes a través de la seva obra la qual adopta diferents formes i mitjans. Actualment se centra en explorar el passat, el malestar de la memòria, els silencis que ressonen i les experiències col·lectives que ens acuerpan.",
+        "artistLink" : "https://www.instagram.com/tatianalvarez_/"
+    },
+    {
+        "artistID": "pepe-reyes",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Pepe Reyes Caballero",
+        "artistImage": "../../assets/media/archive/Pepe_Reyes/bio.jpg",
+        "artistYear": "1996",
+        "artistPronouns": "Ell / Elli",
+        "artistBio": "Va estudiar Belles arts en la Universitat Complutense de Madrid i va continuar la seva formació a la Universitat Politècnica de València, on va realitzar el Màster en Arts Visuals i Multimèdia. Durant els seus estudis va realitzar estades en la Academy Of Arts de Novi Sad a Sèrbia i Kunsuniversität Linz a Àustria on va participar en el màster Interface Cultures. Durant aquests anys ha participat en tallers amb artistes com Daniel Canogar o Alicia Framis. Actualment resideix a València i treballa entre el videoart, la poesia, la fotografia i l'art interactiu a partir de dades quotidianes textuals, sonors i visuals, des dels quals tracta de generar ficcions poètiques per a revelar les costures i friccions dels discursos i construccions socioculturals que li travessen. A partir d'una posició queer que entén el personal com a polític, el seu treball pren la intimitat com a punt de partida per a qüestionar les possibilitats que les vulnerabilitats compartides es converteixin en dispositius de canvi.\n\n\n\nEl seu treball ha estat exposat en espais com a Miami New Mitjana Festival (US), Ars Electronica Festival (AT), Mostra Art Públic Universitat de València (ÉS), Galeria SANU (RS), Filmoteca de València (ÉS), Fundació La Posta (ÉS) o la Mostra d'Art Jove La Rioja (Logronyo). Ha participat com a finalista en el certamen de creació audiovisual Suroscopia en les edicions de 2021 i 2022.",
+        "artistLink" : "https://www.instagram.com/ppreyescaballero/"
+    },
+    {
         "artistID": "iris-lopez",
         "artistPage": "../views/sheet/artist.html",
         "artistName": "Iris López",
