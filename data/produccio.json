@@ -1,5 +1,43 @@
 [
-    
+    {
+        "artistID": "antoni-solera",
+        "artistName": "Antoni Solera",
+        "projectID": "antoni.territori",
+        "projectName": "el territori en moviment; un filtre de so",
+        "projectYear": "2023",
+        "projectMedium": "Art d'Acció",
+        "projectDesc": "Un caixó, terra, un altaveu, un micròfon, quatre rodes, so, territori, l''underground', l'invisible, el baix terra i la seua materialitat.\n\n\n\nL'artefacte distorsiona i filtra el so a través de la terra, en aquest cas provinent de l'Horta Nord. El caixó esdevé un recipient territorial i la matèria que conté un espai d'intervenció de l''underground', l'invisible, el baix terra, aquell lloc on les fusions, les mescles, els processos de criollització i el moviment s'acceleren. Les rodes permeten el seu desplaçament, donant a aquesta fracció territorial continguda la possibilitat de desplaçar-se, d'expandir-se, buscant nous sorolls que filtrar.\n\n\n\nAl activarse, la terra queda infusionada i amb ella un tros del territori, reconfigurant-lo, canviant-lo.\n\n\n\nLa terra acull aquestos nous sons, els guarda i els preserva a l'invisible, al baix terra, mentre que a la vegada els projecta.\n\n\n\nEl projecte continua viu, i l'artefacte espera a contindre fraccions d'altres territoris, a rebre nous sons i a sortir una altra volta.\n\n\n\nAquesta peça fou presentada al I Congrés d'Art Mutant a La Mutant en relació a l'obra sonora 'Berlín Series' de Diàleg Obert.",
+        "projectImage": "../../assets/media/archive/Antoni_Solera/Territori/antoni_territori.jpg",
+        "projectLink": "",
+        "projectLinkName" : "",
+        "projectPage": "../../views/sheet/project.html"
+    },
+    {
+        "artistID": "ruben-rodriguez",
+        "artistName": "Rubén Rodríguez",
+        "projectID": "ruben.nose",
+        "projectName": "Nose Job Journal",
+        "projectYear": "2018",
+        "projectMedium": "Fotografía",
+        "projectDesc": "Nose Job Journal es una reflexió estètica sobre la violència de les imatges. Violència que s'exercerix sobre els nostres cossos i els travessa.",
+        "projectImage": "../../assets/media/archive/Ruben_Rodriguez/bio.jpg",
+        "projectLink": "",
+        "projectLinkName" : "",
+        "projectPage": "../../views/sheet/project.html"
+    },
+    {
+        "artistID": "tatiana",
+        "artistName": "Tatiana Álvarez",
+        "projectID": "tatiana.aire",
+        "projectName": "Aire Vacío",
+        "projectYear": "2021",
+        "projectMedium": "Videoinstal·lació",
+        "projectDesc": "'Aire Vacío' és una exploració interdisciplinària que s'inspira en el llegat del creador experimental, fotògraf, cineasta i inventor granadí José Val de l'Omar. Aquest projecte de videoart busca fusionar elements sonors i visuals en una experiència site-specific que, des del profund respecte i admiració pel seu llegat estètic i sensorial, honra i expandeix temptativament el seu 'Tríptic elemental d'Espanya', una obra composta per tres curtmetratges que exploren el territori espanyol amb un gran lirisme.\n\n\n\nEnfocant-se en l'element inexplorat de l'aire, 'Aire Vacío' situa la seva narrativa als pobles que conformen l'anomenada Espanya Vaciada. A través d'aquesta exploració, l'obra busca desentranyar la complexa dilació i reconfiguració del temps cinematogràfic a través d'espais absents, ancorats en el passat i habitats tan sols per aire i vent.",
+        "projectImage": "../../assets/media/archive/Tatiana_Alvarez/Aire_Vacio/tatiana_aire_vacio.png",
+        "projectLink": "https://youtu.be/IsChNaJz2m8",
+        "projectLinkName" : "Veure Vídeo",
+        "projectPage": "../../views/sheet/project.html"
+    },
     {
         "artistID": "pepe-reyes",
         "artistName": "Pepe Reyes Caballero",
