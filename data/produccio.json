@@ -1,5 +1,18 @@
 [
     {
+        "artistID": "aitana-fallera",
+        "artistName": "Na Fallera Fatal",
+        "projectID": "aitana.barraca",
+        "projectName": "Barraca Fatal",
+        "projectYear": "2022",
+        "projectMedium": "Fotografia / Collage",
+        "projectDesc": "No hi ha a València cap amant com jo,\n\n\n\nferoçment t'estime del matí a la nit.\n\n\n\nHan passat anys, molt anys; han passat moltes coses.\n\n\n\nNo comprenc l'amor com un costum amable,\n\n\n\ncom un costum pacífic de compliment i teles\n\n\n\n(i que ens perdone la casta senyora Conchita Piquer).\n\n\n\nEs desperta, de sobte, com un vell huracà,\n\n\n\ni ens tomba en terra a les dos, ens ajunta, ens empeny.\n\n\n\nJo desitjava, a voltes, un amor educat.\n\n\n\nEl nostre amor es un amor brusc i salvatge\n\n\n\ni tenim l'enyorança amarga de la terra,\n\n\n\nd'anar a rebolcons entre besos i arraps.\n\n\n\nQuè voleu que hi faça! Elemental, ja ho sé.\n\n\n\nIgnorem el Casal i ignorem moltes coses.\n\n\n\nLes Falleres Majors i les rimes d'Estellés.\n\n\n\nDesprés, tombades en terra de qualsevol manera,\n\n\n\ncomprenem que som bàrbares, i que això no deu ser,\n\n\n\nque no soc fallera, i tot això i allò.\n\n\n\nNo té València un amant com jo,\n\n\n\ncar d'amants com nosaltres en son parits ben pocs.",
+        "projectImage": "../../assets/media/archive/extra/aitana-barraca.png",
+        "projectLink": "",
+        "projectLinkName" : "",
+        "projectPage": "../../views/sheet/project.html"
+    },
+    {
         "artistID": "antoni-solera",
         "artistName": "Antoni Solera",
         "projectID": "antoni.territori",

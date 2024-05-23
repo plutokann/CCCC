@@ -1,5 +1,15 @@
 [
     {
+        "artistID": "aitana-fallera",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "Na Fallera Fatal",
+        "artistImage": "../../assets/media/archive/extra/aitana-bio.jpg",
+        "artistYear": "2002",
+        "artistPronouns": "Ella",
+        "artistBio": "Na Fallera Fatal és una projecte d'investigació teòric-pràctic que utilitza la pràctica artística performativa per repensar la tradició fallera.\n\n\n\nLa construcció del personatge des d'una visió artística és clau per irrompre amb la línia de treball de l'imaginari cultural valencià. Té per objectiu reflexionar sobre la tradició amb una perspectiva contemporània, dissident i política. On l'herència d'un llegat familiar faller comporta la ferramenta per expressar-se contra els valors culturals establerts sobre el folklore valencià. La intenció és fomentar el desenvolupament d'un rol sociocultural alternatiu.\n\n\n\nRepensar aquests conceptes, ha portat a generar referències estètiques tals com el transvestisme espanyol, el cabaret o les femmes fatals. Les darreres, són representacions de personalitats disruptives que inspiren la representació artística d'una conducta alternativa contra l'ideal cultural valencià de la Fallera Major.\n\n\n\nAquestes accions tenen el perill constant de ferir la cultura, amb més o menys violència. Malgrat les molèsties que puga causar, Na Fallera Fatal mai oblida la seua posició d'amant amb València i la fatalitat.",
+        "artistLink" : "https://www.instagram.com/na.aitana/"
+    },
+    {
         "artistID": "antoni-solera",
         "artistPage": "../views/sheet/artist.html",
         "artistName": "Antoni Solera",
