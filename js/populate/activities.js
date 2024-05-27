@@ -6,7 +6,7 @@ fetch('data/activities.json')
     gridContainer.innerHTML = '';
     
     // Reverse the data array to iterate from newer to older
-    data.reverse();
+    // data.reverse();
     
     data.forEach(item => {
       const div = document.createElement('div');
