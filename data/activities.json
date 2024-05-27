@@ -5,7 +5,7 @@
         "year": "10 Abril 2024",
         "medium": "PlanesConAmigas",
         "image": "../assets/build/loading.gif",
-        "activityLink" : ""
+        "link" : ""
     },
     {
         "ID" : "1",
@@ -13,7 +13,7 @@
         "year": "3 Abril 2024",
         "medium": "PlanesConAmigas",
         "image": "../assets/build/loading.gif",
-        "activityLink" : ""
+        "link" : ""
     },
     
     {
@@ -22,7 +22,7 @@
         "year": "27 Maig 2024",
         "medium": "PlanesConAmigas",
         "image": "../assets/media/agenda/planes0.jpg",
-        "activityLink" : "https://www.instagram.com/p/C7d7Q9BqIOc/"
+        "link" : "https://www.instagram.com/p/C7d7Q9BqIOc/"
     }
 
 ]
