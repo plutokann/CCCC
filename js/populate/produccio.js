@@ -6,7 +6,7 @@ fetch('../data/produccio.json')
     gridContainer.innerHTML = '';
     
     // Reverse the data array to iterate from newer to older
-    // data.reverse();
+    data.reverse();
 
     // Get the current page name
     const pageName = window.location.pathname.split('/').pop();
