@@ -12,7 +12,7 @@ fetch('data/activities.json')
       const div = document.createElement('div');
       div.className = 'item';
       div.innerHTML = `
-        <a href="#"><img src="${item.image}" alt=""></a>
+        <a href="${item.activityLink}"><img src="${item.image}" alt=""></a>
         <div>
           <h3>${item.name}</h3>
           <p>${item.medium}</p>
