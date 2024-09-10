@@ -5,7 +5,7 @@ fetch('../data/consorci-gent.json')
     // Clear the existing items
     gridContainer.innerHTML = '';
     
-    // Iterate through each item in the data array
+    // Iterate over the limited data and create HTML elements for each item
     data.forEach(item => {
       const div = document.createElement('div');
       div.className = 'item';
@@ -19,4 +19,4 @@ fetch('../data/consorci-gent.json')
       gridContainer.appendChild(div);
     });
   })
-  .catch(error => console.error('Error fetching data:', error));
+  .catch(error => console.error('Error fetching data:', error)); // Append the created elements to the container

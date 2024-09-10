@@ -51,6 +51,7 @@ fetch('../data/activities.json')
     // Use the slice method to get the limited number of items
     const limitedData = data.slice(0, limit);
 
+    // Iterate over the limited data and create HTML elements for each item
     limitedData.forEach(item => {
       const div = document.createElement('div');
       div.className = 'item';
@@ -62,7 +63,7 @@ fetch('../data/activities.json')
           <p>${item.year}</p>  
         </div>
       `;
-      gridContainer.appendChild(div);
+      gridContainer.appendChild(div); // Append the created elements to the container
     });
   });
 
