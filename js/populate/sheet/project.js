@@ -20,7 +20,7 @@ fetch('../../data/produccio.json')
 
         // Check if the project and artist exist
         if (project && artist) {
-          const gridContainer = document.querySelector('#populate-productions');
+          const gridContainer = document.querySelector('#populate-project');
           const div = document.createElement('div');
           div.className = 'item';
 

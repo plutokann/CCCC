@@ -1,7 +1,7 @@
 fetch('../data/consorci-gent.json')
   .then(response => response.json())
   .then(data => {
-    const gridContainer = document.querySelector('#populate-productions');
+    const gridContainer = document.querySelector('#populate-consorci');
     // Clear the existing items
     gridContainer.innerHTML = '';
     

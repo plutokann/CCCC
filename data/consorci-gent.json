@@ -1,5 +1,25 @@
 [
     {
+        "artistID": "xoel-ariez",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "ARIEZZZ",
+        "artistImage": "../../assets/media/archive/ARIEZZZ/bio.jpg",
+        "artistYear": "2000",
+        "artistPronouns": "-",
+        "artistBio": "Artista multidisciplinar con base en Valencia, que expresa su obsesión por el cuerpo y la deconstrucción del género a través de la performance y la danza. En 2020 continúa la exploración en el mundo de la música como DJ, poniendo el foco en ritmos rápidos y potentes como el Deconstructed Club, Latin Club, G Tech, Hard Dance y el Bass.\n\n\n\nSu presencia en escena es una evidencia de cómo cada una de las disciplinas en las que trabaja están estrechamente ligadas al sonido electrónico, y son complementarias entre sí. Ariezzz no existe sin lo sonoro. Actualmente lleva la dirección creativa y programación de Total Spook, dónde también es DJ residente. Total funciona una plataforma de impulso a talentos emergentes y desarrollo de espacios seguros para el colectivo LGTBIQ+ en la ciudad de Valencia.\n\n\n\nEn los últimos años compartió cartel con iconos internacionales como Honey Dijon, BRAVA, Toccororo, Meg10, TAAHLIAH o Merca Bae, pasando por las principales salas de España como Razzmatazz (Barcelona), The Bassement Club (Madrid), Sala Moondance (Madrid), Mondo Club (Vigo), Spook (Valencia) o Sala Cosmos (Sevilla).",
+        "artistLink" : "https://www.instagram.com/metr00000000/?hl=es"
+    },
+    {
+        "artistID": "metr0",
+        "artistPage": "../views/sheet/artist.html",
+        "artistName": "metr00",
+        "artistImage": "../../assets/media/archive/metr00/bio.png",
+        "artistYear": "2023",
+        "artistPronouns": "-",
+        "artistBio": "Nascut com un espai festiu, metr00 és un grup que pretén posar en comú propostes d'artistes amb la diversió. Treballen des-de els marges, l'amistat i els temps compartits, amb un discurs queer i de cures. A més de festes, organitzen exposicions, shows i espectacles de performance. Treballen a El Consulado, un espai de creació d'arts a la Fonteta de Sant Lluís. El componen Cristina Muñoz, Joan Forner, Juana Polo i Paula Pachón.",
+        "artistLink" : "https://www.instagram.com/xo.el.ariez/?hl=es"
+    },
+    {
         "artistID": "aitana-fallera",
         "artistPage": "../views/sheet/artist.html",
         "artistName": "Na Fallera Fatal",
