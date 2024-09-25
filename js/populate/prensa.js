@@ -6,7 +6,7 @@ fetch('../data/press.json')
     gridContainer.innerHTML = '';
     
     // Reverse the data array to iterate from newer to older
-    // data.reverse();
+    data.reverse();
 
     // Get the current page name
     const pageName = window.location.pathname.split('/').pop();
@@ -22,11 +22,12 @@ fetch('../data/press.json')
       const div = document.createElement('div');
       div.className = 'item';
       div.innerHTML = `
-        <a href="${item.link}"><img src="${item.image}" alt=""></a>
+        <a href="${item.link}?id=${item.ID}"><img src="${item.image}" alt=""></a>
         <div>
           <h3>${item.title}</h3>
-          <p>${item.medium}</p>
-          <p>${item.year}</p>  
+          <p class="italic">${item.medium} (${item.year})</p>
+          <br>
+          <p>${item.text}</p>          
         </div>
       `;
       gridContainer.appendChild(div); // Append the created elements to the container
