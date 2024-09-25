@@ -134,6 +134,7 @@ header {
     width: 100vw;
     max-height: 31.4rem;
     object-fit: cover;
+    object-position: bottom;
     margin-bottom: 2em;
 }
 
