@@ -91,19 +91,6 @@
         "projectPage": "../../views/sheet/project.html"
     },
     {
-        "artistID": "sahara",
-        "artistName": "Sahara Dolores",
-        "projectID": "sahara.gay",
-        "projectName": "¡ you are so fucking gay ♡ ~('▽^人) !",
-        "projectYear": "2023",
-        "projectMedium": "Prototip Electrònic",
-        "projectDesc": "'You are so fucking gay' és un prototip del que seria un detector de gais, que pretén qüestionar l'electrònica i la ciència com a veritats immutables des de les metodologies, lògiques i tècniques queer. Com són la banalització, l'humor i l'estètica com a resistència davant un context computacional hegemònic.\n\n\n\nDes de la influència i el interes per obres de generació de codi queer com a Algoritmo Queer de David Reimer, transCoder de Zach Blas o Femme Disturbance de Micha Cárdenas. Aquesta obra atén la necessitat de llevar pes a la serietat i rigorositat de la programació, des d'una narrativa infantil sàtira acompanyada de kaomojis. Aquesta es basa en el joc de l'amagatall fred-calor, on el fred fa que els kaomojis plorin perquè estàs perdent, però quan estàs guanyant et cremes perquè ets gai (hot). Tot això depèn d'un botó que has de prémer, el qual encén una quantitat indeterminada de leds, que indiquen en quin lloc estàs i es genera un missatge que te'l comunica.\n\n\n\nL'obra pretén des del joc i la diversió, posar en rellevància la importància de reescriure l'imaginari de l'electrònica des dels estudis queer. Generant codi des de perspectives i metodologies transfeministas, decoloniales, discas, dissidents i neuro divergents, per a repensar i generar noves maneres d'habitar el tecnològic.",
-        "projectImage": "../../assets/media/archive/Sahara_Dolores/You_Are_So/sahara_you_are_so.jpg",
-        "projectLink": "https://vimeo.com/user203680288",
-        "projectLinkName" : "Veure Vídeo",
-        "projectPage": "../../views/sheet/project.html"
-    },
-    {
         "artistID": "azel",
         "artistName": "Andrés Cuesta (AZEL)",
         "projectID": "azel.primordio",
